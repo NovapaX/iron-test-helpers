@@ -1,0 +1,35 @@
+{
+  "name": "@polymer/iron-test-helpers",
+  "flat": true,
+  "version": "3.0.0-pre.8",
+  "description": "Utility classes to help make testing easier",
+  "contributors": [
+    "The Polymer Authors"
+  ],
+  "keywords": [
+    "web-components",
+    "web-component",
+    "polymer",
+    "test"
+  ],
+  "main": "iron-test-helpers.html",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PolymerElements/iron-test-helpers"
+  },
+  "license": "BSD-3-Clause",
+  "homepage": "https://github.com/PolymerElements/iron-test-helpers",
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0-pre.7"
+  },
+  "devDependencies": {
+    "wct-browser-legacy": "0.0.1-pre.11",
+    "@webcomponents/webcomponentsjs": "^1.0.0"
+  },
+  "resolutions": {
+    "inherits": "2.0.3",
+    "samsam": "1.1.3",
+    "supports-color": "3.1.2",
+    "type-detect": "1.0.0"
+  }
+}
